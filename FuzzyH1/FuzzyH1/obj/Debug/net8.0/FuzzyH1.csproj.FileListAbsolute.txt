@@ -1,0 +1,14 @@
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\bin\Debug\net8.0\FuzzyH1.exe
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\bin\Debug\net8.0\FuzzyH1.deps.json
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\bin\Debug\net8.0\FuzzyH1.runtimeconfig.json
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\bin\Debug\net8.0\FuzzyH1.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\bin\Debug\net8.0\FuzzyH1.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.AssemblyInfoInputs.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.AssemblyInfo.cs
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.csproj.CoreCompileInputs.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\refint\FuzzyH1.dll
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.pdb
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\FuzzyH1.genruntimeconfig.cache
+C:\Users\joaok\OneDrive\Área de Trabalho\Fuzzy\Fuzzy\FuzzyH1\FuzzyH1\obj\Debug\net8.0\ref\FuzzyH1.dll
